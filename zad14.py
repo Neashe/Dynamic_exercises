@@ -1,0 +1,1 @@
+"""dziwne zadanie"""
